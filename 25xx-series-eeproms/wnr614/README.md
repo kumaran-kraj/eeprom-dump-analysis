@@ -1,4 +1,4 @@
-
+```
 DECIMAL       HEXADECIMAL     DESCRIPTION
 --------------------------------------------------------------------------------
 60352         0xEBC0          U-Boot version string, "U-Boot 1.1.3 (Feb 26 2014 - 12:49:16)"
@@ -11,4 +11,4 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 3956820       0x3C6054        Zip archive data, at least v2.0 to extract, compressed size: 10852, uncompressed size: 71621, name: msg.xml
 3967730       0x3C8AF2        Zip archive data, at least v2.0 to extract, compressed size: 32735, uncompressed size: 151214, name: hlp.js
 4000718       0x3D0BCE        End of Zip archive, footer length: 22
-
+```
