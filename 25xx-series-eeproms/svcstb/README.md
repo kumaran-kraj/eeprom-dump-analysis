@@ -1,4 +1,4 @@
-
+```
 DECIMAL       HEXADECIMAL     DESCRIPTION
 --------------------------------------------------------------------------------
 29044         0x7174          LZMA compressed data, properties: 0x5D, dictionary size: 16777216 bytes, uncompressed size: -1 bytes
@@ -11,4 +11,4 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 1573200       0x180150        Linux kernel ARM boot executable zImage (little-endian)
 1581310       0x1820FE        LZMA compressed data, properties: 0x5D, dictionary size: 67108864 bytes, uncompressed size: -1 bytes
 3670016       0x380000        Squashfs filesystem, little endian, version 4.0, compression:xz, size: 6979661 bytes, 222 inodes, blocksize: 131072 bytes, created: 2019-01-17 12:34:02
-
+```
