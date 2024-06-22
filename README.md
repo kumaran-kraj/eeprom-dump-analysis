@@ -1,2 +1,2 @@
 # eeprom-dump-analysis
-repo for keeping the firmwares I extract from whatever i get my hands on 
+repo for keeping the firmwares I extract from whatever I get my hands on 
